@@ -45,9 +45,14 @@
 
 <p>&emsp;&emsp;大家好，我是查壹壹。</p>
 <p>&emsp;&emsp;专注于：逆向、IOT、破解、车联网。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立安全研究员，并且想开一个Dao的公司</p>
-<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立安全研究员</p>
+<p>&emsp;&emsp;想开一个Dao的公司</p>
+<p><strong>&emsp;&emsp;Access to computers—and anything that might teach you something about the way the world works—should be unlimited and total. Always yield to the Hands-On Imperative!</strong></p>
+<p><strong>&emsp;&emsp;All information should be free.</strong></p>
 <p><strong>&emsp;&emsp;Mistrust Authority—Promote Decentralization.</strong></p>
+<p><strong>&emsp;&emsp;Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.</strong></p>
+<p><strong>&emsp;&emsp;You can create art and beauty on a computer.</strong></p>
+<p><strong>&emsp;&emsp;Computers can change your life for the better.</strong></p>
 
 </td></tr>
 
