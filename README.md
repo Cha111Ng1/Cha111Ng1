@@ -30,5 +30,36 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-
 </div>
+
+
+#  🙋 Hello
+
+<table>
+<tr><td>
+
+<!-- About me 关于我 -->
+### 🤺 About Me
+  
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
+<p>&emsp;&emsp;大家好，我是查壹壹。</p>
+<p>&emsp;&emsp;逆向、IOT、破解、车联网。</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立安全研究员。</p>
+<p>&emsp;&emsp;想开一个Dao的公司</p>
+<p><strong>&emsp;&emsp;Mistrust Authority—Promote Decentralization.</strong></p>
+
+</td></tr>
+
+<tr>
+<td>
+  
+### 🏢 Work Experience
+
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+  
+  - 工作岗位：团队技术经理
+  - 工作方向：IOT安全研究员
+
+</td>
+</tr>
