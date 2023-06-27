@@ -11,7 +11,6 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 <br>
 <br>
-<br>
 <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
