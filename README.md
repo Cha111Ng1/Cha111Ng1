@@ -1,10 +1,12 @@
+<!-- 访问统计 -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cha111ng1.cha111ng1">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
