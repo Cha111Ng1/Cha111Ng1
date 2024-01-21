@@ -65,6 +65,7 @@
   
   - 工作岗位：团队技术经理
   - 工作方向：IOT安全研究员
+  - email：systaem@proton.me
 
 </td>
 </tr>
