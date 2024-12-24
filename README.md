@@ -3,7 +3,7 @@
 <!-- 访问统计 -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cha111ng1.cha111ng1">
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://cha111ng1.github.io">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Cha111Ng1+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
